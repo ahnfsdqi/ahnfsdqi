@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naufal Ahnafussidqi Perdana</h1>
 <h3 align="center">A passionate student majoring in Informatics Engineering. Originally from Indonesia, I found my true calling in frontend development. 🚀 Armed with a passion for creating intuitive and visually appealing user interfaces, I embarked on a journey to combine creativity with technology. I'm excited to contribute and collaborate in the vast world of programming. Let's build something amazing together! 💻✨</h3>
-<img align="right" lat="Coding Gif" width="400px" src="blob:https://web.whatsapp.com/5fd66ba1-5c0d-435e-8240-267f5e4fdccc">
 
 - 🔭 I’m currently working on **Enhancing my skills in UI/UX Designer And Frontend development**
 
